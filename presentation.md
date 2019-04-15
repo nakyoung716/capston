@@ -5,7 +5,7 @@
 > 사용하지 않는 플러그의 대기전력을 자동으로 차단함으로써 전기요금을 절약할 수 있음
 ## 3. 시스템 구성도  
 > ![Alt text](/diagram.jpg)  
-> ![Alt text](/img.png){: width="50%" height="50%"}
+<img width="515" alt="img" src="https://user-images.githubusercontent.com/46955861/56109982-bbf60200-5f8d-11e9-92a2-7874157ada79.png" width="700" height="700">
 ## 4. 데이터 흐름도  
 > 1) 움직임, 인체 감지 센서를 이용해 집 안에 사람이 있는지 판단 (아두이노)  
 > 2) 움직임, 인체 감지 데이터를 DB에 저장  
